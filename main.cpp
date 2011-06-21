@@ -2,7 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-    QCoreApplifdafdafascation a(argc, argv);
-dasfadsf
+    QCoreApplication a(argc, argv);
     return a.exec();
 }
